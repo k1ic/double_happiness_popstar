@@ -55,5 +55,7 @@ Double Happiness Popstar 旨在探索两款全链游戏 [PixeLAW-Popstar](https:
 <p align="center">
   <img src="https://github.com/k1ic/tcm-popstar/assets/5465932/67cc1ddd-4179-4cd8-b1ef-deb8e399c234" alt="Example image" height="450">
 </p>
-![image](https://github.com/k1ic/double_happiness_popstar/assets/5465932/f207055f-6163-4533-888f-38b2d3fedbb8)
+<p align="center">
+  <img src="https://github.com/k1ic/double_happiness_popstar/assets/5465932/f207055f-6163-4533-888f-38b2d3fedbb8" alt="Example image" height="450">
+</p>
 
