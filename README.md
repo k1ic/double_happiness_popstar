@@ -44,9 +44,8 @@
     </td>
   </tr>
 </table>
-![image](https://github.com/k1ic/tcm-popstar/assets/5465932/2dae7562-2f2e-4783-b2f9-81dad0f89558)
-![image](https://github.com/k1ic/tcm-popstar/assets/5465932/e5f9b97e-44c0-47b2-8ecf-482183085a99)
-![image](https://github.com/k1ic/tcm-popstar/assets/5465932/7aba0e8d-b6c3-4a01-802c-c80a3607ebbd)
 
 2024.05.19：完成产品方案初稿、开始coding
-![image](https://github.com/k1ic/tcm-popstar/assets/5465932/67cc1ddd-4179-4cd8-b1ef-deb8e399c234)
+<p align="center">
+  <img src="https://github.com/k1ic/tcm-popstar/assets/5465932/67cc1ddd-4179-4cd8-b1ef-deb8e399c234" alt="Example image" height="450">
+</p>
