@@ -52,10 +52,23 @@ Double Happiness Popstar 旨在探索两款全链游戏 [PixeLAW-Popstar](https:
 </table>
 
 2024.05.19：完成产品方案初稿、开始coding
-<p align="center">
-  <img src="https://github.com/k1ic/tcm-popstar/assets/5465932/67cc1ddd-4179-4cd8-b1ef-deb8e399c234" alt="Example image" height="450">
-</p>
-<p align="center">
-  <img src="https://github.com/k1ic/double_happiness_popstar/assets/5465932/f207055f-6163-4533-888f-38b2d3fedbb8" alt="Example image" height="450">
-</p>
+产品设计：[完整链接](https://www.figma.com/design/JEUqflbhFMmVufFp56I0gO/Untitled?node-id=0-1&t=aINmvGCAYJyLnNCU-0)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/k1ic/double_happiness_popstar/assets/5465932/e201ba1a-9400-44d2-bf26-a16b36f17cae" alt="Example image 1" height="450">
+    </td>
+    <td align="center">
+      <img src="https://github.com/k1ic/double_happiness_popstar/assets/5465932/d39c3026-4955-4dcf-823b-dbc7a89a84d7" alt="Example image 2" height="450">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/k1ic/double_happiness_popstar/assets/5465932/ecc8f417-5d7d-40bf-bbb1-63e5159af732" alt="Example image 1" height="450">
+    </td>
+    <td align="center">
+      <img src="https://github.com/k1ic/double_happiness_popstar/assets/5465932/a92f5eef-efee-4f9c-bb3b-c16bec63e9fe" alt="Example image 2" height="450">
+    </td>
+  </tr>
+</table>
 
