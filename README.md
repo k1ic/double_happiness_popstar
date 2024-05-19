@@ -1,6 +1,6 @@
 # TCM-PopStar | Made for the ETH Beijing hackathon
 
-### TCM-PopStar 旨在探索全链游戏间的可组合性，首先在 [TCM](https://thiscursedmachine.fun/) 和 [PixeLAW-Popstar](https://mud.pixelaw.xyz/) 上进行探索。
+### TCM-PopStar 旨在探索全链游戏间的可组合性，首先在 [TCM](https://thiscursedmachine.fun/) 和 [PixeLAW-Popstar](https://mud.pixelaw.xyz/) 上落地。
 
 ### 项目亮点
 1. 全链游戏间资产可组合性
