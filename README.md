@@ -76,7 +76,7 @@ Double Happiness Popstar 旨在探索两款全链游戏 [PixeLAW-Popstar](https:
 项目构建
 基于[MUD](https://mud.dev/)构建，目前只玩了项目框架搭建，以下为项目构建过程的截图
 <p align="center">
-  <img src="https://github.com/k1ic/double_happiness_popstar/assets/5465932/d0b58496-cb3b-4575-933c-70b19141454c" alt="Example image" height="450">
+  <img src="https://github.com/k1ic/double_happiness_popstar/assets/5465932/d0b58496-cb3b-4575-933c-70b19141454c" alt="Example image">
 </p>
 <p align="center">
   <img src="https://github.com/k1ic/double_happiness_popstar/assets/5465932/9599740a-4ef4-43e6-8ba6-f5b03f0ca267" alt="Example image" height="450">
