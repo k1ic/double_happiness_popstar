@@ -4,7 +4,7 @@
 
 ### 项目亮点
 1. 全链游戏间资产可组合性
-2. 基于链上AI模型的人机对弈（基于 gizatech.xyz ）
+2. 基于链上AI模型的人机对弈（基于 [gizatech.xyz](https://www.gizatech.xyz/) ）
 3. 一次玩两款游戏，双份体验、双份快乐
 
 ### [TCM](https://thiscursedmachine.fun/) 简介
