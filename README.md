@@ -30,15 +30,20 @@
   </tr>
 </table>
 
-
-<p align="center">
-  <img src="https://github.com/k1ic/tcm-popstar/assets/5465932/c086746e-8a44-499a-bb46-2fabfbea420f" alt="Image description" height="450">
-</p>
-
-![WechatIMG70396](https://github.com/k1ic/tcm-popstar/assets/5465932/c086746e-8a44-499a-bb46-2fabfbea420f)
-![WechatIMG70397](https://github.com/k1ic/tcm-popstar/assets/5465932/66a55e90-bd75-4d73-894d-9ba7daa2b319)
-
 2024.05.18：与 TCM 团队沟通并确认技术方案
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/k1ic/tcm-popstar/assets/5465932/2dae7562-2f2e-4783-b2f9-81dad0f89558" alt="Example image 1" height="450">
+    </td>
+    <td align="center">
+      <img src="https://github.com/k1ic/tcm-popstar/assets/5465932/e5f9b97e-44c0-47b2-8ecf-482183085a99" alt="Example image 2" height="450">
+    </td>
+    <td align="center">
+      <img src="https://github.com/k1ic/tcm-popstar/assets/5465932/7aba0e8d-b6c3-4a01-802c-c80a3607ebbd" alt="Example image 2" height="450">
+    </td>
+  </tr>
+</table>
 ![image](https://github.com/k1ic/tcm-popstar/assets/5465932/2dae7562-2f2e-4783-b2f9-81dad0f89558)
 ![image](https://github.com/k1ic/tcm-popstar/assets/5465932/e5f9b97e-44c0-47b2-8ecf-482183085a99)
 ![image](https://github.com/k1ic/tcm-popstar/assets/5465932/7aba0e8d-b6c3-4a01-802c-c80a3607ebbd)
