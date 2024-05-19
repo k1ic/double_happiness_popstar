@@ -1,10 +1,14 @@
 # Double Happiness Popstar | Made for the ETH Beijing hackathon
 
+### Double Happiness Popstar
+Double Happiness Popstar 通过将 [PixeLAW](https://mud.pixelaw.xyz/)  上的“消灭星星”升级为多人对弈模式，最先消除全部星星的玩家，获得其余玩家投入的保证金；并将 TCM 的订单产出（各种 ERC-20 代币）作为消灭星星消除卡，来实现两个游戏间的可组合性。
+此外，通过在链上放置“消灭星星”的玩家AI模型，加速多人博弈的匹配效率，同时作为一种探索Crypto与AI结合的应用案例。
+
 ### Double Happiness Popstar 旨在探索全链游戏间的可组合性，首先在 [TCM](https://thiscursedmachine.fun/) 和 [PixeLAW-Popstar](https://mud.pixelaw.xyz/) 上落地。
 
 ### 项目亮点
-1. 全链游戏间资产可组合性
-2. 基于链上AI模型的人机对弈（基于 [gizatech.xyz](https://www.gizatech.xyz/) ）
+1. 透过全链游戏间资产可组合性，增加游戏可玩性
+2. 链上AI模型驱动的全链游戏（基于 [gizatech.xyz](https://www.gizatech.xyz/) ）
 3. 一次玩两款游戏，双份体验、双份快乐
 
 ### [TCM](https://thiscursedmachine.fun/) 简介
@@ -19,9 +23,6 @@
 <p align="center">
   <img src="https://github.com/k1ic/double_happiness_popstar/assets/5465932/3e4e8d98-7935-4c82-a4ec-065395b57a04" alt="Example image" height="450">
 </p>
-
-### Double Happiness Popstar
-将 TCM 的订单产出（各种 ERC-20 代币）用作 [PixeLAW](https://mud.pixelaw.xyz/) 上 PopStar（消灭星星）的消除卡，从而打通两个游戏间的经济循环， 为玩家提供全新的游玩体验。
 
 ### Double Happiness Popstar hack 时间线
 2024.05.17：头脑风暴并输出产品草稿
