@@ -20,7 +20,7 @@
 ### TCM-PopStar hack 时间线
 2024.05.17：头脑风暴并输出产品草稿
 <p align="center">
-  <img src="[image_url](https://github.com/k1ic/tcm-popstar/assets/5465932/c086746e-8a44-499a-bb46-2fabfbea420f)" alt="Image description" height="350">
+  <img src="https://github.com/k1ic/tcm-popstar/assets/5465932/c086746e-8a44-499a-bb46-2fabfbea420f" alt="Image description" height="350">
 </p>
 
 ![WechatIMG70396](https://github.com/k1ic/tcm-popstar/assets/5465932/c086746e-8a44-499a-bb46-2fabfbea420f)
