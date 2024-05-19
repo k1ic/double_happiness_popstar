@@ -52,7 +52,8 @@ Double Happiness Popstar 旨在探索两款全链游戏 [PixeLAW-Popstar](https:
 </table>
 
 2024.05.19：完成产品方案初稿、开始coding
-产品设计：[完整链接](https://www.figma.com/design/JEUqflbhFMmVufFp56I0gO/Untitled?node-id=0-1&t=aINmvGCAYJyLnNCU-0)
+
+[产品设计稿](https://www.figma.com/design/JEUqflbhFMmVufFp56I0gO/Untitled?node-id=0-1&t=aINmvGCAYJyLnNCU-0)
 <table>
   <tr>
     <td align="center">
