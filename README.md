@@ -16,3 +16,16 @@
 
 ### TCM-PopStar 
 将 TCM 的订单产出（各种 ERC-20 代币）用作 PixeLAW 上 PopStar（消灭星星）的消除卡，从而打通两个游戏间的经济循环， 为玩家提供全新的游玩体验。
+
+### TCM-PopStar hack 时间线
+2024.05.17：头脑风暴并输出产品草稿
+![WechatIMG70396](https://github.com/k1ic/tcm-popstar/assets/5465932/c086746e-8a44-499a-bb46-2fabfbea420f)
+![WechatIMG70397](https://github.com/k1ic/tcm-popstar/assets/5465932/66a55e90-bd75-4d73-894d-9ba7daa2b319)
+
+2024.05.18：与 TCM 团队沟通并确认技术方案
+![image](https://github.com/k1ic/tcm-popstar/assets/5465932/2dae7562-2f2e-4783-b2f9-81dad0f89558)
+![image](https://github.com/k1ic/tcm-popstar/assets/5465932/e5f9b97e-44c0-47b2-8ecf-482183085a99)
+![image](https://github.com/k1ic/tcm-popstar/assets/5465932/7aba0e8d-b6c3-4a01-802c-c80a3607ebbd)
+
+2024.05.19：完成产品方案初稿、开始coding
+![image](https://github.com/k1ic/tcm-popstar/assets/5465932/67cc1ddd-4179-4cd8-b1ef-deb8e399c234)
