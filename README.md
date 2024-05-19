@@ -1,6 +1,6 @@
-# TCM-PopStar | Made for the ETH Beijing hackathon
+# Double Happiness Popstar | Made for the ETH Beijing hackathon
 
-### TCM-PopStar 旨在探索全链游戏间的可组合性，首先在 [TCM](https://thiscursedmachine.fun/) 和 [PixeLAW-Popstar](https://mud.pixelaw.xyz/) 上落地。
+### Double Happiness Popstar 旨在探索全链游戏间的可组合性，首先在 [TCM](https://thiscursedmachine.fun/) 和 [PixeLAW-Popstar](https://mud.pixelaw.xyz/) 上落地。
 
 ### 项目亮点
 1. 全链游戏间资产可组合性
@@ -14,10 +14,10 @@
 ### PixeLAW 简介
 一个全链游戏开发/部署平台，一个基于“像素”的链上游乐场，一个前后端分离的链上应用开发框架。开发者可以在其上只写合约就完成游戏开发，以及开发具备可组合性、互操作性的多款游戏；玩家可以一站式体验多款全链游戏，并体验多款游戏间的互操作性玩法。
 
-### TCM-PopStar 
+### Double Happiness Popstar
 将 TCM 的订单产出（各种 ERC-20 代币）用作 PixeLAW 上 PopStar（消灭星星）的消除卡，从而打通两个游戏间的经济循环， 为玩家提供全新的游玩体验。
 
-### TCM-PopStar hack 时间线
+### Double Happiness Popstar hack 时间线
 2024.05.17：头脑风暴并输出产品草稿
 <table>
   <tr>
